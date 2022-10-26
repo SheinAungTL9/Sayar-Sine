@@ -1,0 +1,20 @@
+body{
+    margin-top: 230px;
+}
+
+.content{
+    justify-content: space-evenly;
+    text-align: center;
+    display: flex;
+   
+}
+
+.right{
+    text-align: right;
+    justify-content: space-evenly;
+   
+    
+}
+
+
+
